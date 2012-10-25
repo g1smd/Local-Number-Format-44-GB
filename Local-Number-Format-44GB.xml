@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row ID="1">
+		<areaCode>^4416977$</areaCode>
+		<localNumber>^(([2-8]\d\d|9[0-8]\d|99[0-8])\d{2}|[23]\d{3})$</localNumber>
+	</Row>
+	<Row ID="2">
+		<areaCode>^441(3873|5(242|39[456])|697[34]|768[347]|9467)$</areaCode>
+		<localNumber>^(([2-8]\d\d|9[0-8]\d|99[0-8])\d{2})$</localNumber>
+	</Row>
+	<Row ID="3">
+		<areaCode>^441524$</areaCode>
+		<localNumber>^(([3-8]\d\d|9[0-8]\d|99[0-8])\d{3}|(3[2-79]|6\d)\d{3})$</localNumber>
+	</Row>
+	<Row ID="4">
+		<areaCode>^441768$</areaCode>
+		<localNumber>^(([2568]\d\d|9[0-8]\d|99[0-8])\d{3}|88[234678]\d{2})$</localNumber>
+	</Row>
+	<Row ID="5">
+		<areaCode>^441946$</areaCode>
+		<localNumber>^(([2-68]\d\d|9[0-8]\d|99[0-8])\d{3}|6[1-8]\d{3})$</localNumber>
+	</Row>
+	<Row ID="6">
+		<areaCode>^441387$</areaCode>
+		<localNumber>^(([24-8]\d\d|9[0-8]\d|99[0-8])\d{3})$</localNumber>
+	</Row>
+	<Row ID="7">
+		<areaCode>^441539$</areaCode>
+		<localNumber>^(([2378]\d\d|9[0-8]\d|99[0-8])\d{3})$</localNumber>
+	</Row>
+	<Row ID="8">
+		<areaCode>^441697$</areaCode>
+		<localNumber>^(([2568]\d\d|9[0-8]\d|99[0-8])\d{3})$</localNumber>
+	</Row>
+	<Row ID="9">
+		<areaCode>^441204$</areaCode>
+		<localNumber>^(([2-8]\d\d|9[0-8]\d|99[0-8])\d{3}|6[1-4]\d{3})$</localNumber>
+	</Row>
+	<Row ID="10">
+		<areaCode>^441208$</areaCode>
+		<localNumber>^(([2-8]\d\d|9[0-8]\d|99[0-8])\d{3}|7[2-9]\d{3})$</localNumber>
+	</Row>
+	<Row ID="11">
+		<areaCode>^441254$</areaCode>
+		<localNumber>^(([2-8]\d\d|9[0-8]\d|99[0-8])\d{3}|5[1-79]\d{3})$</localNumber>
+	</Row>
+	<Row ID="12">
+		<areaCode>^441276$</areaCode>
+		<localNumber>^(([2-8]\d\d|9[0-8]\d|99[0-8])\d{3}|(2\d|3[1-8]|6[1-6])\d{3})$</localNumber>
+	</Row>
+	<Row ID="13">
+		<areaCode>^441297$</areaCode>
+		<localNumber>^(([2-8]\d\d|9[0-8]\d|99[0-8])\d{3}|(2[0-4]|3[2-5])\d{3})$</localNumber>
+	</Row>
+	<Row ID="14">
+		<areaCode>^441298$</areaCode>
+		<localNumber>^(([2-8]\d\d|9[0-8]\d|99[0-8])\d{3}|(2[2-8]|7[0-4789]|8[345])\d{3})$</localNumber>
+	</Row>
+	<Row ID="15">
+		<areaCode>^441363$</areaCode>
+		<localNumber>^(([2-8]\d\d|9[0-8]\d|99[0-8])\d{3}|8[2-5]\d{3})$</localNumber>
+	</Row>
+	<Row ID="16">
+		<areaCode>^441364$</areaCode>
+		<localNumber>^(([2-8]\d\d|9[0-8]\d|99[0-8])\d{3}|7[23]\d{3})$</localNumber>
+	</Row>
+	<Row ID="17">
+		<areaCode>^441384$</areaCode>
+		<localNumber>^(([2-8]\d\d|9[0-8]\d|99[0-8])\d{3}|7[04-9]\d{3})$</localNumber>
+	</Row>
+	<Row ID="18">
+		<areaCode>^441386$</areaCode>
+		<localNumber>^(([2-8]\d\d|9[0-8]\d|99[0-8])\d{3}|4[015789]\d{3})$</localNumber>
+	</Row>
+	<Row ID="19">
+		<areaCode>^441404$</areaCode>
+		<localNumber>^(([2-8]\d\d|9[0-8]\d|99[0-8])\d{3}|4[1-7]\d{3})$</localNumber>
+	</Row>
+	<Row ID="20">
+		<areaCode>^441420$</areaCode>
+		<localNumber>^(([2-8]\d\d|9[0-8]\d|99[0-8])\d{3}|(2[23]|8\d)\d{3})$</localNumber>
+	</Row>
+	<Row ID="21">
+		<areaCode>^441460$</areaCode>
+		<localNumber>^(([2-8]\d\d|9[0-8]\d|99[0-8])\d{3}|(30|5[2-57]|6[1-8]|7[2-8])\d{3})$</localNumber>
+	</Row>
+	<Row ID="22">
+		<areaCode>^441461$</areaCode>
+		<localNumber>^(([2-8]\d\d|9[0-8]\d|99[0-8])\d{3}|40\d{3})$</localNumber>
+	</Row>
+	<Row ID="23">
+		<areaCode>^441480$</areaCode>
+		<localNumber>^(([2-8]\d\d|9[0-8]\d|99[0-8])\d{3}|52\d{3})$</localNumber>
+	</Row>
+	<Row ID="24">
+		<areaCode>^441488$</areaCode>
+		<localNumber>^(([2-8]\d\d|9[0-8]\d|99[0-8])\d{3}|7[123]\d{3})$</localNumber>
+	</Row>
+	<Row ID="25">
+		<areaCode>^441527$</areaCode>
+		<localNumber>^(([2-8]\d\d|9[0-8]\d|99[0-8])\d{3}|6\d{4})$</localNumber>
+	</Row>
+	<Row ID="26">
+		<areaCode>^441562$</areaCode>
+		<localNumber>^(([2-8]\d\d|9[0-8]\d|99[0-8])\d{3}|6[06-9]\d{3})$</localNumber>
+	</Row>
+	<Row ID="27">
+		<areaCode>^441566$</areaCode>
+		<localNumber>^(([2-8]\d\d|9[0-8]\d|99[0-8])\d{3}|86\d{3})$</localNumber>
+	</Row>
+	<Row ID="28">
+		<areaCode>^441606$</areaCode>
+		<localNumber>^(([2-8]\d\d|9[0-8]\d|99[0-8])\d{3}|(4\d|7[4-79])\d{3})$</localNumber>
+	</Row>
+	<Row ID="29">
+		<areaCode>^441629$</areaCode>
+		<localNumber>^(([2-8]\d\d|9[0-8]\d|99[0-8])\d{3}|5[567]\d{3})$</localNumber>
+	</Row>
+	<Row ID="30">
+		<areaCode>^441635$</areaCode>
+		<localNumber>^(([2-8]\d\d|9[0-8]\d|99[0-8])\d{3}|[34]\d{4})$</localNumber>
+	</Row>
+	<Row ID="31">
+		<areaCode>^441647$</areaCode>
+		<localNumber>^(([2-8]\d\d|9[0-8]\d|99[0-8])\d{3}|(24|61)\d{3})$</localNumber>
+	</Row>
+	<Row ID="32">
+		<areaCode>^441659$</areaCode>
+		<localNumber>^(([2-8]\d\d|9[0-8]\d|99[0-8])\d{3}|(5[08]|6[67]|74)\d{3})$</localNumber>
+	</Row>
+	<Row ID="33">
+		<areaCode>^441695$</areaCode>
+		<localNumber>^(([2-8]\d\d|9[0-8]\d|99[0-8])\d{3}|5[0-4]\d{3})$</localNumber>
+	</Row>
+	<Row ID="34">
+		<areaCode>^441726$</areaCode>
+		<localNumber>^(([2-8]\d\d|9[0-8]\d|99[0-8])\d{3}|(6[13-9]|7[0-7])\d{3})$</localNumber>
+	</Row>
+	<Row ID="35">
+		<areaCode>^441744$</areaCode>
+		<localNumber>^(([2-8]\d\d|9[0-8]\d|99[0-8])\d{3}|2\d{4})$</localNumber>
+	</Row>
+	<Row ID="36">
+		<areaCode>^441750$</areaCode>
+		<localNumber>^(([2-8]\d\d|9[0-8]\d|99[0-8])\d{3}|(2[0-3]|[34568]2|76)\d{3})$</localNumber>
+	</Row>
+	<Row ID="37">
+		<areaCode>^441827$</areaCode>
+		<localNumber>^(([2-8]\d\d|9[0-8]\d|99[0-8])\d{3}|[56]\d{4})$</localNumber>
+	</Row>
+	<Row ID="38">
+		<areaCode>^441837$</areaCode>
+		<localNumber>^(([2-8]\d\d|9[0-8]\d|99[0-8])\d{3}|(5[2-5]|8[239])\d{3})$</localNumber>
+	</Row>
+	<Row ID="39">
+		<areaCode>^441884$</areaCode>
+		<localNumber>^(([2-8]\d\d|9[0-8]\d|99[0-8])\d{3}|3[2-58]\d{3})$</localNumber>
+	</Row>
+	<Row ID="40">
+		<areaCode>^441900$</areaCode>
+		<localNumber>^(([2-8]\d\d|9[0-8]\d|99[0-8])\d{3}|(6[1-8]|85)\d{3})$</localNumber>
+	</Row>
+	<Row ID="41">
+		<areaCode>^441905$</areaCode>
+		<localNumber>^(([2-8]\d\d|9[0-8]\d|99[0-8])\d{3}|2\d{4})$</localNumber>
+	</Row>
+	<Row ID="42">
+		<areaCode>^441935$</areaCode>
+		<localNumber>^(([2-8]\d\d|9[0-8]\d|99[0-8])\d{3}|83\d{3})$</localNumber>
+	</Row>
+	<Row ID="43">
+		<areaCode>^441949$</areaCode>
+		<localNumber>^(([2-8]\d\d|9[0-8]\d|99[0-8])\d{3}|(2[01]|81)\d{3})$</localNumber>
+	</Row>
+	<Row ID="44">
+		<areaCode>^441963$</areaCode>
+		<localNumber>^(([2-8]\d\d|9[0-8]\d|99[0-8])\d{3}|(23|3[1-4])\d{3})$</localNumber>
+	</Row>
+	<Row ID="45">
+		<areaCode>^441995$</areaCode>
+		<localNumber>^(([2-8]\d\d|9[0-8]\d|99[0-8])\d{3}|61\d{3})$</localNumber>
+	</Row>
+	<Row ID="46">
+		<areaCode>^441(2(0[025679]|2[3-9]|3[3-79]|4[1-689]|[5[0235-9]|6[0-4789]|7[01345789]|8[02-9]|9[0-69])|3(0\d|[25][02-9]|3[02-579]|4[0-46-9]|6[0126-9]|7[1235679]|8[0-389]|9[24578])|4(0[035-9]|2[2-5789]|[37]\d|4[02-69]|5[0-8]|6[2-79]|8[1-579]|9[0-79])|5(0[1235-9]|2[025689]|3[014568]|4[02-9]|5[03-9]|6[01345789]|7[0-35-9]|8[0-468]|9[0-5789])|6(0[03489]|2[0-68]|3[01346-9]|4[1-46]|5[0-6]|6[13-9]|7[0-8]|8[013-9]|9[01248])|7(0[0246-9]|2[0-5789]|3[023678]|4[035-9]|5[1-46-9]|6[013-79]|7[0-35-9]|8[024-9]|9[02-9])|8(0[35-9]|2[1-589]|3[02-58]|4[0-578]|5[124-9]|6[2-69]|7\d|8[0235-9]|9[02569])|9(0[23489]|2[02-689]|3[1-4789]|4[2-57]|5[0-579]|6[24789]|7[0124578]|8\d|9[2347]))$</areaCode>
+		<localNumber>^(([2-8]\d\d|9[0-8]\d|99[0-8])\d{3})$</localNumber>
+	</Row>
+	<Row ID="47">
+		<areaCode>^44113$</areaCode>
+		<localNumber>^([2348]\d{6})$</localNumber>
+	</Row>
+	<Row ID="48">
+		<areaCode>^44114$</areaCode>
+		<localNumber>^([234]\d{6})$</localNumber>
+	</Row>
+	<Row ID="49">
+		<areaCode>^44115$</areaCode>
+		<localNumber>^(([278]\d\d|9[0-8]\d|99[0-8])\d{4})$</localNumber>
+	</Row>
+	<Row ID="50">
+		<areaCode>^44116$</areaCode>
+		<localNumber>^([234]\d{6})$</localNumber>
+	</Row>
+	<Row ID="51">
+		<areaCode>^44117$</areaCode>
+		<localNumber>^(([234]\d\d|9[0-8]\d|99[0-8])\d{4})$</localNumber>
+	</Row>
+	<Row ID="52">
+		<areaCode>^44118$</areaCode>
+		<localNumber>^(([34]\d\d|9[0-8]\d|99[0-8])\d{4})$</localNumber>
+	</Row>
+	<Row ID="53">
+		<areaCode>^44121$</areaCode>
+		<localNumber>^(([2-7]\d{6})$</localNumber>
+	</Row>
+	<Row ID="54">
+		<areaCode>^44131$</areaCode>
+		<localNumber>^(([2-8]\d{6})$</localNumber>
+	</Row>
+	<Row ID="55">
+		<areaCode>^44141$</areaCode>
+		<localNumber>^(([2-8]\d\d|9[0-8]\d|99[0-8])\d{4})$</localNumber>
+	</Row>
+	<Row ID="56">
+		<areaCode>^44151$</areaCode>
+		<localNumber>^(([2-8]\d\d|9[0-8]\d|99[0-8])\d{4})$</localNumber>
+	</Row>
+	<Row ID="57">
+		<areaCode>^44161$</areaCode>
+		<localNumber>^(([234678]\d\d|9[0-8]\d|99[0-8])\d{4})$</localNumber>
+	</Row>
+	<Row ID="58">
+		<areaCode>^44191$</areaCode>
+		<localNumber>^(([2-8]\d\d|9[0-8]\d|99[0-8])\d{4})$</localNumber>
+	</Row>
+	<Row ID="59">
+		<areaCode>^4420$</areaCode>
+		<localNumber>^([378]\d{7})$</localNumber>
+	</Row>
+	<Row ID="60">
+		<areaCode>^4423$</areaCode>
+		<localNumber>^((8[012]|9[234])\d{6})$</localNumber>
+	</Row>
+	<Row ID="61">
+		<areaCode>^4424$</areaCode>
+		<localNumber>^(7[567]\d{6})$</localNumber>
+	</Row>
+	<Row ID="62">
+		<areaCode>^4428$</areaCode>
+		<localNumber>^((2[015789]|3[078]|4[0-4]|6[678]|7[0179]|8[0125679]|9[0-8])\d{6})$</localNumber>
+	</Row>
+	<Row ID="63">
+		<areaCode>^4429$</areaCode>
+		<localNumber>^(2[0-3]\d{6})$</localNumber>
+	</Row>
+</Root>
